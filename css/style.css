@@ -37,6 +37,7 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: blue;
 }
 
 h3 {
@@ -56,8 +57,9 @@ p {
 }
 
 a {
-  color: black;
+  color: red;
   text-decoration: none;
+  text-shadow: red;
 }
 
 a:hover {
